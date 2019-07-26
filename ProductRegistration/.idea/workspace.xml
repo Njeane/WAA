@@ -379,6 +379,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/edu/mum/waa/formatter" />
@@ -408,18 +409,19 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8084/" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8084/ProductRegistration_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="ProductRegistration:war">
+        <artifact name="ProductRegistration:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/" />
+            <option name="CONTEXT_PATH" value="/ProductRegistration_war_exploded" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_ProductRegistration_3" />
         <option name="HTTP_PORT" value="8084" />
+        <option name="JNDI_PORT" value="5099" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -477,7 +479,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="ProductRegistration:war" />
+          <artifact name="ProductRegistration:war exploded" />
         </option>
       </method>
     </configuration>
