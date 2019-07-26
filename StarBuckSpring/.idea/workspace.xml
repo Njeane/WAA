@@ -6,98 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="227a0564-9c8c-4825-ab31-c19cf6d90805" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/.idea/artifacts/CalculatorServlet_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/java/edu/mum/waa/controller/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/java/edu/mum/waa/domain/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/java/edu/mum/waa/service/CalculatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/java/edu/mum/waa/service/CalculatorServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/java/edu/mum/waa/validator/CalculatorValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/java/edu/mum/waa/validator/CalculatorValidatorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/resources/Config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/jsp/CalculatorForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/jsp/CalculatorView.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/jsp/product.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/lib/MVCFramework.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/resources/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/.idea/artifacts/unnamed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/java/edu/mum/waa/configuration/DeploymentDescriptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/java/edu/mum/waa/configuration/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/java/edu/mum/waa/controller/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/java/edu/mum/waa/domain/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/java/edu/mum/waa/service/CalculatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/java/edu/mum/waa/service/CalculatorServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/webapp/WEB-INF/jsp/CalculatorForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/webapp/WEB-INF/jsp/CalculatorView.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/java/edu/mum/waa/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/java/edu/mum/waa/domain/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/java/edu/mum/waa/domain/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/java/edu/mum/waa/formatter/CategoryFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/java/edu/mum/waa/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/java/edu/mum/waa/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/java/edu/mum/waa/repositoryImpl/CategoryRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/java/edu/mum/waa/repositoryImpl/ProductRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/java/edu/mum/waa/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/java/edu/mum/waa/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/java/edu/mum/waa/serviceImpl/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/java/edu/mum/waa/serviceImpl/ProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/webapp/WEB-INF/config/springmvc-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/webapp/WEB-INF/jsp/ListProducts.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/webapp/WEB-INF/jsp/ProductDetails.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/webapp/WEB-INF/jsp/ProductForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/webapp/WEB-INF/resources/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProductRegistration/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/controller/AdviceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/data/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/repository/AdviceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/repository/impl/AdviceRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/repository/impl/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/service/AdviceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/service/impl/AdviceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/webapp/WEB-INF/config/springmvc-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/webapp/WEB-INF/jsp/LoginSuccessful.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/webapp/WEB-INF/jsp/advice.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/webapp/WEB-INF/jsp/display.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/webapp/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarBuckSpring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/controller/AdviceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/data/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/repository/AdviceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/repository/impl/AdviceRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/repository/impl/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/service/AdviceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/service/impl/AdviceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/LoginSuccessful.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/advice.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/display.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-    </list>
+    <list default="true" id="227a0564-9c8c-4825-ab31-c19cf6d90805" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -198,8 +107,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+            <state relative-caret-position="68">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -453,16 +362,15 @@
       <workItem from="1564091365399" duration="5517000" />
       <workItem from="1564106143597" duration="710000" />
       <workItem from="1564166733897" duration="1408000" />
-      <workItem from="1564170374706" duration="1318000" />
+      <workItem from="1564170374706" duration="1588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10279000" />
+    <option name="totallyTimeSpent" value="10549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1346" height="861" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2511628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -654,8 +562,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        <state relative-caret-position="68">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>

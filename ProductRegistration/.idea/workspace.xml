@@ -2,102 +2,11 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="ProductRegistration:war" />
+      <artifact name="ProductRegistration:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7dfd7cb-a805-4fce-9845-2fbd30b56ff9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/.idea/artifacts/CalculatorServlet_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/java/edu/mum/waa/controller/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/java/edu/mum/waa/domain/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/java/edu/mum/waa/service/CalculatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/java/edu/mum/waa/service/CalculatorServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/java/edu/mum/waa/validator/CalculatorValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/java/edu/mum/waa/validator/CalculatorValidatorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/src/main/resources/Config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/jsp/CalculatorForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/jsp/CalculatorView.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/jsp/product.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/lib/MVCFramework.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorServlet/web/resources/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/.idea/artifacts/unnamed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/java/edu/mum/waa/configuration/DeploymentDescriptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/java/edu/mum/waa/configuration/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/java/edu/mum/waa/controller/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/java/edu/mum/waa/domain/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/java/edu/mum/waa/service/CalculatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/java/edu/mum/waa/service/CalculatorServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/webapp/WEB-INF/jsp/CalculatorForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CalculatorSpring/src/main/webapp/WEB-INF/jsp/CalculatorView.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/domain/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/domain/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/formatter/CategoryFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/repositoryImpl/CategoryRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/repositoryImpl/ProductRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/serviceImpl/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/mum/waa/serviceImpl/ProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/ListProducts.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/ProductDetails.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/ProductForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/controller/AdviceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/data/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/repository/AdviceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/repository/impl/AdviceRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/repository/impl/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/service/AdviceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/service/impl/AdviceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/java/edu/mum/waa/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/webapp/WEB-INF/config/springmvc-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/webapp/WEB-INF/jsp/LoginSuccessful.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/webapp/WEB-INF/jsp/advice.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/webapp/WEB-INF/jsp/display.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuck/src/main/webapp/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/StarBuckSpring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/java/edu/mum/waa/controller/AdviceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/java/edu/mum/waa/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/java/edu/mum/waa/data/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/java/edu/mum/waa/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/java/edu/mum/waa/repository/AdviceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/java/edu/mum/waa/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/java/edu/mum/waa/repository/impl/AdviceRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/java/edu/mum/waa/repository/impl/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/java/edu/mum/waa/service/AdviceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/java/edu/mum/waa/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/java/edu/mum/waa/service/impl/AdviceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/java/edu/mum/waa/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/webapp/WEB-INF/config/springmvc-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/webapp/WEB-INF/jsp/LoginSuccessful.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/webapp/WEB-INF/jsp/advice.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/webapp/WEB-INF/jsp/display.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarBuckSpring/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f7dfd7cb-a805-4fce-9845-2fbd30b56ff9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,6 +26,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/waa/repositoryImpl/CategoryRepositoryImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,17 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="-204">
               <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/messages.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -354,23 +267,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ProductRegistration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProductRegistration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProductRegistration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProductRegistration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -495,19 +391,18 @@
       <option name="presentableId" value="Default" />
       <updated>1564169731367</updated>
       <workItem from="1564169734964" duration="48000" />
-      <workItem from="1564170372340" duration="2838000" />
+      <workItem from="1564170372340" duration="3081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2886000" />
+    <option name="totallyTimeSpent" value="3129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1346" height="861" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25348836" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25348836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -521,7 +416,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329235" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3989071" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3989071" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -566,18 +461,6 @@
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/waa/repositoryImpl/CategoryRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -684,13 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -698,17 +574,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/messages.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/springmvc-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/waa/repositoryImpl/CategoryRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
