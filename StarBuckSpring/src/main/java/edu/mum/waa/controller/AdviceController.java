@@ -10,7 +10,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import edu.mum.waa.service.AdviceService;
- 
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
+
 @Controller
 public class AdviceController  {
 	
@@ -27,17 +28,23 @@ public class AdviceController  {
 		}
 
 	  @RequestMapping (value="/advice",method = RequestMethod.POST)
-	  public String adviceList( Integer roastKey, Model model) throws Exception {
+	  public String adviceList(Integer roastKey, Model model, RedirectAttributes redirectAttributes) throws Exception {
 
 		  String roast = adviceService.getRoast(roastKey);
  		List<String> roastList  = adviceService.getListByType(roast);
  
-		model.addAttribute("roast",roast);
-		model.addAttribute("roastList",roastList);
+//		model.addAttribute("roast",roast);
+//		model.addAttribute("roastList",roastList);
+          redirectAttributes.addFlashAttribute("roast",roast);
+          redirectAttributes.addFlashAttribute(roastList);
  		
-		return "display" ;
+		return "redirect:/roastDetails" ;
  
 	}
+	@RequestMapping(value="/roastDetails", method=RequestMethod.GET)
+    public String adviceDetails(Model model){
+ 		    return "display";
+    }
 	
  
 }

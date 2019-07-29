@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7dfd7cb-a805-4fce-9845-2fbd30b56ff9" name="Default Changelist" comment="" />
+    <list default="true" id="f7dfd7cb-a805-4fce-9845-2fbd30b56ff9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../StarBuckSpring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StarBuckSpring/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +35,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/waa/repositoryImpl/CategoryRepositoryImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="324">
               <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -391,15 +393,16 @@
       <option name="presentableId" value="Default" />
       <updated>1564169731367</updated>
       <workItem from="1564169734964" duration="48000" />
-      <workItem from="1564170372340" duration="3081000" />
+      <workItem from="1564170372340" duration="3736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3129000" />
+    <option name="totallyTimeSpent" value="3784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1346" height="861" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25348836" />
@@ -416,7 +419,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329235" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3989071" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -438,18 +441,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/mum/waa/repositoryImpl/CategoryRepositoryImpl.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/main.css">
@@ -597,7 +588,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/waa/repositoryImpl/CategoryRepositoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
+        <state relative-caret-position="324">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
